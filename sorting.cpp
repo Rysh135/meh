@@ -1,4 +1,4 @@
-//Rishab 108117083
+//Rishab.S 108117083
 #include <iostream>
  
 using namespace std;
@@ -67,3 +67,5 @@ int partition(int a[],int l,int u)
     
     return(j);
 }
+
+
